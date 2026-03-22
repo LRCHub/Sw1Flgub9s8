@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "base_track": "春泥棒",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-03-22T04:24:00.605344Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春泥棒 - Spring Thief",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_春泥棒_-_Spring_Thief_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春泥棒 - Spring Thief",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/02_春泥棒_-_Spring_Thief_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春泥棒 - Spring Thief",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/03_春泥棒_-_Spring_Thief_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "春泥棒",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/04_春泥棒_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "春泥棒",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/05_春泥棒_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "春泥棒",
+      "artist": "Yorushika ヨルシカ",
+      "has_synced": true,
+      "path": "select/06_春泥棒_Yorushika_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "春泥棒 (Spring Thief)",
+      "artist": "ヨルシカ (Yorushika)",
+      "has_synced": true,
+      "path": "select/07_春泥棒_(Spring_Thief)_ヨルシカ_(Yorushika).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "春泥棒 ( 「前世」 LIVE ver.)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/08_春泥棒_(_「前世」_LIVE_ver.)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "春泥棒 (From Live「前世」)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/09_春泥棒_(From_Live「前世」)_ヨルシカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春泥棒",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_春泥棒_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "春泥棒",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/localdb_01_春泥棒_ヨルシカ.txt",
+      "repo_name": "Ht6lcYg9Zfo"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "春泥棒",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_02_春泥棒_ヨルシカ.lrc",
+      "repo_name": "Sw1Flgub9s8"
+    }
+  ]
+}
